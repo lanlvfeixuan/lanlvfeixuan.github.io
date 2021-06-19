@@ -20,9 +20,9 @@ Ziyao Wang's great son's website
 - 15 grams of seed/m2 to each plot
 - Fence , water, remove nontarget species
 ### Measure
-- 1) pool sizes of total N in plants;
-- 2) DIN at the end of the growing season (our measure of R*) and over time;
-- 3) microbial pools and process rates (microbial N, microbial biomass, net N mineralization, gross NO3- production, and NO3- production, and nitrification potential).
+ 1) pool sizes of total N in plants;
+ 2) DIN at the end of the growing season (our measure of R*) and over time;
+ 3) microbial pools and process rates (microbial N, microbial biomass, net N mineralization, gross NO3- production, and NO3- production, and nitrification potential).
 ## Results
 
 - In contrast to microbes, plants were a much larger N pool, about ten-fold higher than microbial biomass N.
