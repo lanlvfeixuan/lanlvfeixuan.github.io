@@ -1,5 +1,5 @@
 # lanlvfeixuan.github.io
 Ziyao Wang's great son's website
 
-- 爸爸的爸爸叫爷爷
-- 爸爸的妈妈叫奶奶
+- 我是个丈育
+# 我是个文盲
