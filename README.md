@@ -1,2 +1,5 @@
 # lanlvfeixuan.github.io
-王子尧的孙子的网站
+Ziyao Wang's great son's website
+
+- 爸爸的爸爸叫爷爷
+- 爸爸的妈妈叫奶奶
